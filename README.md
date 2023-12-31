@@ -1,10 +1,10 @@
-Hi, Iâm @rhtace (Rohit Acharya), a pre-final year B.Tech student in Civil Engineering at NIT Rourkela with a CGPA of 8.17 till the 5th semester.
+Hi, I am @rhtace (Rohit Acharya), a pre-final year B.Tech student in Civil Engineering at NIT Rourkela with a CGPA of 8.17 till the 5th semester.
 
-Iâm passionate about data analysis, machine learning, and innovative technological solutions. My skills include Python, Excel, MySQL, Tableau, Matlab, Figma, Adobe Illustrator, LaTex, and AWS.
+I am passionate about data analysis, machine learning, and innovative technological solutions. My skills include Python, Excel, MySQL, Tableau, Matlab, Figma, Adobe Illustrator, LaTex, and AWS.
 
-Iâm currently expanding my expertise in data visualization, Python programming, and machine learning fundamentals.
+I am currently expanding my expertise in data visualization, Python programming, and machine learning fundamentals.
 
-Iâm looking to collaborate on projects involving data analysis, machine learning, or any innovative tech solutions in the civil engineering domain.
+I am looking to collaborate on projects involving data analysis, machine learning, or any innovative tech solutions in the civil engineering domain.
 
 Reach me via email at [rohit.acharya.ce@gmail.com](mailto:rohit.acharya.ce@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-acharya-ab1901217). Also, check out my educational content on [YouTube](https://youtube.com/@learnersclub5910).
 
