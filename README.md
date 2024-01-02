@@ -1,4 +1,4 @@
-Hi, I am @rhtace (Rohit Acharya), a pre-final year B.Tech student in Civil Engineering at NIT Rourkela with a CGPA of 8.17 till the 5th semester.
+Hi, I am @rhtace (Rohit Acharya), a pre-final year B.Tech student in Civil Engineering at NIT Rourkela.
 
 I am passionate about data analysis, machine learning, and innovative technological solutions. My skills include Python, Excel, MySQL, Tableau, Matlab, Figma, Adobe Illustrator, LaTex, and AWS.
 
